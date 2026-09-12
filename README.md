@@ -1,4 +1,4 @@
-Para dimensionar e calcular uma bobina ligada a uma fonte de 220 V com 1500 W de potência, é fundamental separar o comportamento do circuito em Corrente Contínua (DC) e Corrente Alternada (AC).
+README.mdPara dimensionar e calcular uma bobina ligada a uma fonte de 220 V com 1500 W de potência, é fundamental separar o comportamento do circuito em Corrente Contínua (DC) e Corrente Alternada (AC).
 Em corrente contínua não existe reatância indutiva: a autoindução (L) não limita a corrente em regime permanente, dependendo exclusivamente da resistência do cobre (R). Em corrente alternada, a indutância gera uma oposição à passagem da corrente chamada reatância indutiva (X_L).
 1. Fórmulas Fundamentais
 Autoindução (Indutância L)
